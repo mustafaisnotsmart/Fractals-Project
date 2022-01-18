@@ -13,6 +13,7 @@ def tree(branchLen,t):
 def main():
     t = turtle.Turtle()
     myWin = turtle.Screen()
+    t.speed(0)
     t.left(90)
     t.up()
     t.backward(100)
