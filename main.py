@@ -1,5 +1,12 @@
 import turtle
 
+
+"""
+i know its long but it looks nice i guess 
+
+mustafa - period 6
+"""
+
 # this just sets up the the flower and location
 turtle.penup()
 turtle.left(90)
